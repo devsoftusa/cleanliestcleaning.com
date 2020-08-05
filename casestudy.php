@@ -64,7 +64,7 @@
     <section class="service pt-95 pb-70 bg-light-white">
         <div class="container">
             <div class="row">
-               <!-- <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="service-2-each shadow-2 mb-30">
                         <div class="service2-img">
                             <a href="#">
@@ -80,9 +80,9 @@
                             <span class="line bg-blue"></span>
                         </div>
                     </div>
-                </div>-->
+                </div>
 
-                <div class="col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="service-2-each shadow-2 mb-30">
                         <div class="service2-img">
                             <a href="#">
@@ -100,7 +100,7 @@
                     </div>
                 </div>
 
-                <div class=" col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="service-2-each shadow-2 mb-30">
                         <div class="service2-img">
                             <a href="#">

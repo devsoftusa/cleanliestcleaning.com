@@ -5,8 +5,7 @@
                     <div class="d-flex align-self-stretch">
                         <div class="logo">
                             <a href="index.php">
-                                <img style="width: 120px" src="img/logo/logo.png" alt="">
-                            </a>
+                               <h2>LOGO</h2>                            </a>
                         </div>
                     </div>
                 </div>
@@ -41,8 +40,8 @@
                                                 </li>
                                                 <li><a href="faq.php"><span></span>Faq</a>
                                                 </li>
-                                                <li><a href="blog.php"><span></span>Blog</a>
-                                                </li>
+                                                <!--<li><a href="blog.php"><span></span>Blog</a>
+                                                </li>-->
                                                 <li><a href="casestudy.php"><span></span>Case Study </a>
                                                 </li>
                                             </ul>

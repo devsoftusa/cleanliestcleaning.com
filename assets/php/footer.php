@@ -4,14 +4,14 @@
                 <div class="col-lg-4 col-md-6 mb-md-60 mb-sm-40">
                     <div class="logo-footer mb-30">
                         <a href="#">
-                            <img src="img/logo/logofoo.png" style="width: 120px" alt="">
+                           <h2>LOGO</h2>
                         </a>
                     </div>
                     <p class="pr-40 mb-25">As a professional cleaning/maintenance services company, we understand that in order for your facility to operate smoothly, it must remain as clean as possible at all times.</p>
                     <div class="contact-footer">
                         <ul class="">
                             <li class="mb-10"><i class="fas fa-phone blue"></i>(718) 389-4200</li>
-                            <li><i class="fas fa-envelope blue"></i>info@olympiccleaning.net</li>
+                            <li><i class="fas fa-envelope blue"></i>info@example.com</li>
                         </ul>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                     <div class="hr-2 bg-light-white mt-95 mb-40 opacity-1"></div>
                 </div>
                 <div class="col-lg-8">
-                   <p> Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <a class="hover-f" href="https://devsoftusa.com/">DevSoft USA</a></p>
+                   <p> Copyright &copy;<script>document.write(new Date().getFullYear());</script> Website powered by | <a class="hover-f" href="https://devsoftusa.com/">DevSoft USA</a></p>
                 </div>
                 <div class="col-lg-4 text-center">
                     <a href="#" class="scroll-btn bg-blue opacity-0"><i class="fas fa-arrow-up"></i></a>

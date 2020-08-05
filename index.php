@@ -169,20 +169,20 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4 text-center">
-                   <!-- <div class="service-each-3 wow fadeInUp shadow-2">
+                <div class="col-md-6 text-center">
+                    <div class="service-each-3 wow fadeInUp shadow-2">
                         <div class="service-icon-3 bg-light-white">
                             <a href="#"><img src="img/service/1.png" class="transform-center" alt=""></a>
                         </div>
                         <div class="service-text-3">
                             <h3 class="fs-20 f-700 blue mt-20"><a href="#">Home/Residential</a></h3>
-                           <p class="mt-10">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                           <!--<p class="mt-10">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>-->
                             <a style="margin-top: 10px" href="#" class="btn btn-blue-border btn-lg">Read More</a>
                         </div>
-                    </div>-->
+                    </div>
                 </div>
 
-                <div class=" col-md-4 text-center">
+                <div class=" col-md-6 text-center">
                     <div class="service-each-3 shadow-2 wow fadeInUp" data-wow-delay=".2s">
                         <div class="service-icon-3 bg-light-white">
                             <a href="#"><img src="img/service/2.png" class="transform-center" alt=""></a>
@@ -195,8 +195,8 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 text-center">
-                   <!-- <div class="service-each-3 shadow-2 wow fadeInUp" data-wow-delay=".4s">
+                <!--  <div class="col-md-4 text-center">
+                  <div class="service-each-3 shadow-2 wow fadeInUp" data-wow-delay=".4s">
                         <div class="service-icon-3 bg-light-white">
                             <a href="#"><img src="img/service/3.png" class="transform-center" alt=""></a>
                         </div>
@@ -205,8 +205,8 @@
                             <p class="mt-10">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                             <a href="#" class="btn btn-blue-border btn-lg">Read More</a>
                         </div>
-                    </div>-->
-                </div>
+                    </div>
+                </div>-->
 
                <!-- <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-each-3 shadow-2 wow fadeInUp" data-wow-delay=".6s">
