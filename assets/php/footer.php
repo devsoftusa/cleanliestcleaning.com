@@ -10,8 +10,8 @@
                     <p class="pr-40 mb-25">As a professional cleaning/maintenance services company, we understand that in order for your facility to operate smoothly, it must remain as clean as possible at all times.</p>
                     <div class="contact-footer">
                         <ul class="">
-                            <li class="mb-10"><i class="fas fa-phone blue"></i>(718) 389-4200</li>
-                            <li><i class="fas fa-envelope blue"></i>info@example.com</li>
+                            <li class="mb-10"><i class="fas fa-phone blue"></i>(813) 586- 4117</li>
+                            <li><i class="fas fa-envelope blue"></i>cleanliestcleaning@gmail.com</li>
                         </ul>
                     </div>
                 </div>
@@ -34,7 +34,9 @@
           <div class="contact-footer">
                         <ul class="" style="margin-top: 4%">
                      
-                            <li><i class="fa fa-location-arrow blue"></i>30-05 38th Avenue Store B Long Island City, NY 11101 </li>
+                            <li><i class="fa fa-location-arrow blue"></i>Cleanliest Cleaning Services
+
+Spring Hill, FL  34610 </li>
                         </ul>
                     </div>
                 </div>
