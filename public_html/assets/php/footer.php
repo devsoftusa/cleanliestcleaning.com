@@ -4,7 +4,7 @@
                 <div class="col-lg-4 col-md-6 mb-md-60 mb-sm-40">
                     <div class="logo-footer mb-30">
                         <a href="#">
-                           <h2>LOGO</h2>
+                          <img src="img/logo/Logowhite.png" style="width: 70%"> 
                         </a>
                     </div>
                     <p class="pr-40 mb-25">As a professional cleaning/maintenance services company, we understand that in order for your facility to operate smoothly, it must remain as clean as possible at all times.</p>

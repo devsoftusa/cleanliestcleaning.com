@@ -5,7 +5,7 @@
                     <div class="d-flex align-self-stretch">
                         <div class="logo">
                             <a href="index.php">
-                               <h2>LOGO</h2>                            </a>
+                               <img src="img/logo/Logoww.png">                    </a>
                         </div>
                     </div>
                 </div>
